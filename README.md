@@ -7,11 +7,11 @@ Este proyecto analiza los resultados de un experimento digital llevado a cabo po
 
 2. Project Structure
 
-├── main.ipynb              # Análisis completo: EDA, Limpieza, KPIs y Test de hipótesis.
-├── a_b_testing.pbix        # Dashboard interactivo en Power BI.
-├── .gitignore              # Archivos excluidos (entornos virtuales, datasets pesados).
-├── src/                    # Módulos de Python con funciones de limpieza (data_wrangling.py).
-└── README.md               # Documentación del proyecto.
+main.ipynb              # Análisis completo: EDA, Limpieza, KPIs y Test de hipótesis.
+a_b_testing.pbix        # Dashboard interactivo en Power BI.
+.gitignore              # Archivos excluidos (entornos virtuales, datasets pesados).
+src/                    # Módulos de Python con funciones de limpieza (data_wrangling.py).
+README.md               # Documentación del proyecto.
 
 3. Methodology & KPIs
 El análisis se dividió en tres fases:
